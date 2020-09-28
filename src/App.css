@@ -1,0 +1,9 @@
+/*input:checked ~ .checkmark {*/
+/*    border: 1px solid #4eb3ff;*/
+/*    transition: all .25s ease-in-out;*/
+/*}*/
+
+/* Show the indicator (dot/circle) when checked */
+/*input:checked ~ .checkmark:after {*/
+/*    display: block;*/
+/*}*/
